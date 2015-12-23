@@ -4,8 +4,15 @@
         <description><![CDATA[Jake Comics Site]]></description>
         <link>https://thegrid.ai/jake-comics-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 09:32:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Dec 2015 09:35:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jake-comics-site/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Some panels]]></title>
+            <description><![CDATA[<article><h1>Some panels</h1><p>Content content</p></article>]]></description>
+            <link>https://thegrid.ai/jake-comics-site/some-panels/index.html</link>
+            <guid isPermaLink="false">3ebe4166-437e-4f47-ba71-f441958a5f94</guid>
+            <pubDate>Wed, 23 Dec 2015 09:35:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Chapter 1 plot summary]]></title>
             <description><![CDATA[<article><h1></h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c31c6b88cd34478a5514dcfd387a6c6f20b54cb1.jpg"></article>]]></description>
