@@ -4,8 +4,15 @@
         <description><![CDATA[Jake Comics Site]]></description>
         <link>https://thegrid.ai/jake-comics-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 09:25:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Dec 2015 09:32:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jake-comics-site/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chapter 1 plot summary]]></title>
+            <description><![CDATA[<article><h1></h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c31c6b88cd34478a5514dcfd387a6c6f20b54cb1.jpg"></article>]]></description>
+            <link>https://thegrid.ai/jake-comics-site/chapter-1-plot-summary/index.html</link>
+            <guid isPermaLink="false">62686428-6a0d-4ab8-9270-f162063abe2e</guid>
+            <pubDate>Wed, 23 Dec 2015 09:31:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About the author]]></title>
             <description><![CDATA[<article><h1>About the author</h1><p>Jake Wyatt</p></article>]]></description>
