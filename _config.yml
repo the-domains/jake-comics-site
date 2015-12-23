@@ -2,6 +2,7 @@ name: Jake Comics Site
 favicon: null
 layout_spectrum: 0.16309699416160583
 typography_spectrum: 0.2796205645427108
+title: Jake Comics Site
 cta:
   domain: null
   bucket: null
