@@ -4,8 +4,15 @@
         <description><![CDATA[Jake Comics Site]]></description>
         <link>https://thegrid.ai/jake-comics-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 09:35:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Dec 2015 09:45:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jake-comics-site/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Happy new year]]></title>
+            <description><![CDATA[<article><h1>Happy new year</h1><p>MERRY CHRISTMAS AGAIN</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/98d97766f608f042b4da76ee2b11736f26f15b88.gif"></article>]]></description>
+            <link>https://thegrid.ai/jake-comics-site/happy-new-year/index.html</link>
+            <guid isPermaLink="false">ed37f840-2e9f-41af-9c26-696ae0d8978f</guid>
+            <pubDate>Wed, 23 Dec 2015 09:45:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Some panels]]></title>
             <description><![CDATA[<article><h1>Some panels</h1><p>Content content</p></article>]]></description>
