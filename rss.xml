@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Jake Comics Site]]></title>
+        <description><![CDATA[Jake Comics Site]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 23 Dec 2015 09:21:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jake Wyatt's Comic With Knights: Necropolis]]></title>
+            <description><![CDATA[<article><h1>Jake Wyatt's Comic With Knights: Necropolis</h1><p>Please check out Jake's comic Necropolis starring this girl with a big sword</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d732627024b25f18d5fbd5b459486e46dbc157b9.jpg"></article>]]></description>
+            <link>undefinedjake-wyatts-comic-with-knights-necropolis/index.html</link>
+            <guid isPermaLink="false">74d2e85e-8f60-4a1e-8566-47a4be7a1a1a</guid>
+            <pubDate>Wed, 23 Dec 2015 09:21:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
